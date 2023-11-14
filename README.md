@@ -22,7 +22,7 @@ The app utilizes the following steps to track attendance:
 
 To install the Biometric College Attendance App, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/biometric-college-attendance-app.git`
+1. Clone the repository: `git clone https://github.com/mpinzile/biometric-college-attendance-app.git`
 2. Install dependencies: `npm install` or `yarn install`
 3. Configure the necessary environment variables.
 4. Run the application: `npm start` or `yarn start`
